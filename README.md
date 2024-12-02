@@ -3,7 +3,7 @@
 </picture>
 
 
-# 👨‍💻 Micah David
+# 🎸 Micah David
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakashpriyadarshi/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Aakash-Priyadarshi)
