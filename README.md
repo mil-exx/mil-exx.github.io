@@ -1,3 +1,8 @@
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="1.jpg">
+</picture>
+
+
 # 👨‍💻 Micah David
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakashpriyadarshi/)
