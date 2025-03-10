@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="toons.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="flower.jpg">
 </picture>
 
 
