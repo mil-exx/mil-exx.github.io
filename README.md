@@ -3,7 +3,7 @@
 </picture>
 
 
-# 🪩 Micah David
+# 🎱 Micah David
  
 [![LinkedIn]()]()
 [![ResearchGate]()]()
