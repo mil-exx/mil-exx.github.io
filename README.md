@@ -1,9 +1,9 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="flower.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="headsets.jpg">
 </picture>
 
 
-# 🎸 Micah David
+# 🪩 Micah David
  
 [![LinkedIn]()]()
 [![ResearchGate]()]()
